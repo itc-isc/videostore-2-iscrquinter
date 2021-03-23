@@ -6,6 +6,7 @@ public abstract class Movie
 
 	public Movie(String title) {
 		this.title 		= title;
+		System.out.println("Ricardo Quintero");
 	}
 		
 	public String getTitle () {
